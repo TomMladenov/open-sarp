@@ -39,7 +39,8 @@ python3 src/grc/top_block.py
 ```
 
 Start the processor application:
-```python
+```
+cd src/processor
 python3 process_live.py
 ```
 
