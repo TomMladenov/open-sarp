@@ -14,6 +14,7 @@ PDF of the block diagram [here](doc/sarp_decoder_flowgraph.pdf).
 ## Doppler viewer
 
 The decoder features a live Doppler-viewer showing the decoded Doppler words from the SARP-messages.
+Beacon data can be queried by selecting a sample on the plot.
 
 ![screenshot](img/desktop_processor_beacons.png)
 
