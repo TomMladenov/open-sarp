@@ -1,3 +1,7 @@
+src/grc/*.cf32
+src/grc/*.u8
+src/grc/top_block.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
