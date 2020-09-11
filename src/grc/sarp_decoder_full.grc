@@ -428,7 +428,7 @@ blocks:
     alias: ''
     begin_tag: pmt.PMT_NIL
     comment: ''
-    file: /home/tom/workspace/SDRSharp_20161031_094324Z_1544478984Hz_IQ.cf32
+    file: path_to_your_file_here
     length: '0'
     maxoutbuf: '0'
     minoutbuf: '0'
